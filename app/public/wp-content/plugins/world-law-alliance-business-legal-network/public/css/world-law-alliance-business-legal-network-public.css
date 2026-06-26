@@ -1172,7 +1172,7 @@
 
 /* ── Reset ─────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-a { text-decoration: none; color: inherit; }
+a { text-decoration: none !important;  }
 body { font-family: 'DM Sans', sans-serif; }
 
 /* ── Color & layout variables ─────────────────────────────────
@@ -1598,8 +1598,8 @@ body footer.wla-footer {
 }
 
 .wla-home-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-home-wrapper img {
@@ -1792,7 +1792,7 @@ body footer.wla-footer {
 .wla-hero-content {
     position: relative;
     z-index: 2;
-    padding: 0 52px 80px;
+    padding: 50px 52px 80px;
     max-width: 1400px;
 }
 
@@ -2574,8 +2574,8 @@ body footer.wla-footer {
 }
 
 .wla-tax-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-tax-wrapper img {
@@ -3388,8 +3388,8 @@ body footer.wla-footer {
 }
 
 .wla-txn-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-txn-wrapper img {
@@ -4250,8 +4250,8 @@ body footer.wla-footer {
 }
 
 .wla-compliance-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -4579,8 +4579,8 @@ body footer.wla-footer {
 }
 
 .wla-contract-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -4908,8 +4908,8 @@ body footer.wla-footer {
 }
 
 .wla-disputes-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -5237,8 +5237,8 @@ body footer.wla-footer {
 }
 
 .wla-energy-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -5625,8 +5625,8 @@ body footer.wla-footer {
 }
 
 .wla-inhouse-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -5954,8 +5954,8 @@ body footer.wla-footer {
 }
 
 .wla-neutrals-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -6284,8 +6284,8 @@ body footer.wla-footer {
 }
 
 .wla-practices-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-practices-wrapper img {
@@ -7080,8 +7080,8 @@ body footer.wla-footer {
 }
 
 .wla-privacy-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-privacy-wrapper img {
@@ -7219,8 +7219,8 @@ body footer.wla-footer {
 }
 
 .wla-africa-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -7636,8 +7636,8 @@ body footer.wla-footer {
 }
 
 .wla-americas-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -8054,8 +8054,8 @@ body footer.wla-footer {
 }
 
 .wla-asia-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -8472,8 +8472,8 @@ body footer.wla-footer {
 }
 
 .wla-asia-region-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -8880,8 +8880,8 @@ body footer.wla-footer {
 }
 
 .wla-europe-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -9298,8 +9298,8 @@ body footer.wla-footer {
 }
 
 .wla-charities-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -9646,8 +9646,8 @@ body footer.wla-footer {
 }
 
 .wla-family-office-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -10085,8 +10085,8 @@ body footer.wla-footer {
 }
 
 .wla-fashion-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -10525,8 +10525,8 @@ body footer.wla-footer {
 }
 
 .wla-founders-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-founders-wrapper img {
@@ -11149,8 +11149,8 @@ body footer.wla-footer {
 }
 
 .wla-hnw-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-hnw-wrapper img {
@@ -11756,8 +11756,8 @@ body footer.wla-footer {
 }
 
 .wla-institutions-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -12105,8 +12105,8 @@ body footer.wla-footer {
 }
 
 .wla-pe-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-pe-wrapper img {
@@ -12752,8 +12752,8 @@ body footer.wla-footer {
 }
 
 .wla-private-clients-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -13100,8 +13100,8 @@ body footer.wla-footer {
 }
 
 .wla-professionals-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -13449,8 +13449,8 @@ body footer.wla-footer {
 }
 
 .wla-tech-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-tech-wrapper img {
@@ -14215,8 +14215,8 @@ body footer.wla-footer {
 }
 
 .wla-specialist-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-specialist-wrapper img {
@@ -15006,8 +15006,8 @@ body footer.wla-footer {
 }
 
 .wla-terms-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-terms-wrapper img {
@@ -15150,8 +15150,8 @@ body footer.wla-footer {
 }
 
 .wla-unbounded-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* Buttons */
@@ -15507,8 +15507,8 @@ body footer.wla-footer {
 }
 
 .wla-wia-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* Buttons */
@@ -15826,8 +15826,8 @@ body footer.wla-footer {
 }
 
 .wla-forums-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-forums-wrapper img {
@@ -16943,8 +16943,8 @@ body footer.wla-footer {
 }
 
 .wla-governance-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-governance-wrapper img {
@@ -17288,8 +17288,8 @@ body footer.wla-footer {
 }
 
 .wla-hiw-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-hiw-wrapper img {
@@ -18604,8 +18604,8 @@ body footer.wla-footer {
 }
 
 .wla-impact-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-impact-wrapper img {
@@ -19451,8 +19451,8 @@ body footer.wla-footer {
 }
 
 .wla-insights-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-insights-wrapper img {
@@ -20190,8 +20190,8 @@ body footer.wla-footer {
 }
 
 .wla-intel-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-intel-wrapper img {
@@ -21132,8 +21132,8 @@ body footer.wla-footer {
 }
 
 .wla-bahamas-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-bahamas-wrapper img {
@@ -21761,8 +21761,8 @@ body footer.wla-footer {
 }
 
 .wla-france-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-france-wrapper img {
@@ -22303,8 +22303,8 @@ body footer.wla-footer {
 }
 
 .wla-germany-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-germany-wrapper img {
@@ -22859,8 +22859,8 @@ body footer.wla-footer {
 }
 
 .wla-hongkong-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-hongkong-wrapper img {
@@ -23488,8 +23488,8 @@ body footer.wla-footer {
 }
 
 .wla-india-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-india-wrapper img {
@@ -24291,8 +24291,8 @@ body footer.wla-footer {
 }
 
 .wla-netherlands-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-netherlands-wrapper img {
@@ -24920,8 +24920,8 @@ body footer.wla-footer {
 }
 
 .wla-poland-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-poland-wrapper img {
@@ -25549,8 +25549,8 @@ body footer.wla-footer {
 }
 
 .wla-portugal-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-portugal-wrapper img {
@@ -26178,8 +26178,8 @@ body footer.wla-footer {
 }
 
 .wla-singapore-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-singapore-wrapper img {
@@ -26756,8 +26756,8 @@ body footer.wla-footer {
 }
 
 .wla-uae-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-uae-wrapper img {
@@ -27517,8 +27517,8 @@ body footer.wla-footer {
 }
 
 .wla-uk-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-uk-wrapper img {
@@ -28061,8 +28061,8 @@ body footer.wla-footer {
 }
 
 .wla-zambia-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-zambia-wrapper img {
@@ -28690,8 +28690,8 @@ body footer.wla-footer {
 }
 
 .wla-about-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-about-wrapper img {
@@ -29584,8 +29584,8 @@ body footer.wla-footer {
 }
 
 .wla-arbitration-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-arbitration-wrapper img {
@@ -30466,8 +30466,8 @@ body footer.wla-footer {
 }
 
 .wla-clients-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-clients-wrapper img {
@@ -31393,8 +31393,8 @@ body footer.wla-footer {
 }
 
 .wla-firms-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-firms-wrapper img {
@@ -32173,8 +32173,8 @@ body footer.wla-footer {
 }
 
 .wla-directory-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-directory-wrapper img {
@@ -33024,8 +33024,8 @@ body footer.wla-footer {
 }
 
 .wla-corridor-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-corridor-wrapper img {
@@ -33722,8 +33722,8 @@ body footer.wla-footer {
 }
 
 .wla-corridor-ukafrica-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -34426,8 +34426,8 @@ body footer.wla-footer {
 }
 
 .wla-corridors-lp-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-corridors-lp-wrapper img {
@@ -34889,8 +34889,8 @@ body footer.wla-footer {
 }
 
 .wla-gcc-seasia-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-gcc-seasia-wrapper img {
@@ -35587,8 +35587,8 @@ body footer.wla-footer {
 }
 
 .wla-corridor-gulfcee-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -36441,8 +36441,8 @@ body footer.wla-footer {
 }
 
 .wla-eu-india-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-eu-india-wrapper img {
@@ -37138,8 +37138,8 @@ body footer.wla-footer {
 }
 
 .wla-corridor-apacamericas-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 /* ================================================================
@@ -37846,8 +37846,8 @@ body footer.wla-footer {
 }
 
 .wla-ip-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-ip-wrapper img {
@@ -38594,8 +38594,8 @@ body footer.wla-footer {
 }
 
 .wla-employment-wrapper a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none !important;
+    
 }
 
 .wla-employment-wrapper img {
